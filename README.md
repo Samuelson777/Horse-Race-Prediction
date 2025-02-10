@@ -8,7 +8,6 @@ This project aims to predict the outcomes of horse races using machine learning 
 - Exploratory Data Analysis (EDA)
 - Visualization
 - Machine Learning
-- Tableau/Power-BI
 
 ## Domain
 - Sports
