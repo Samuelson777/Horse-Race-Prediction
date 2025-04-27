@@ -70,3 +70,6 @@ The dataset consists of two main types of files:
 
 ## Contribution
 This readme provides an overview of the Horse Race Prediction project, detailing its objectives, dataset, methodologies, and expected outcomes. For further details, refer to the project repository and documentation.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Horse-Race-Prediction/blob/main/LICENSE) file for details.
